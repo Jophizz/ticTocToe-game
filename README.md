@@ -17,4 +17,3 @@ Display the move history and implement a button to navigate through it
 Add a new function resetGame to reset the game state and move history.
 
 Create a button in the Board component to trigger the resetGame function.
-
